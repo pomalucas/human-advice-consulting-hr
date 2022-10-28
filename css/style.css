@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: #ffffff;
+}
+
+.flexbox{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    height: 200px;
+    width: 200px;
+    padding:10px 10px;
+}
+
+.menu > li{
+    font-size: 16px;
+}
+
+.filter{
+    filter:blur(4px);
+}
