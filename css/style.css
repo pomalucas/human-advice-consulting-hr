@@ -16,7 +16,7 @@ nav{
 .logo{
     height: 200px;
     width: 200px;
-    padding:10px 10px;
+    padding:20px 20px;
 }
 
 .menu > li{
@@ -25,4 +25,20 @@ nav{
 
 .filter{
     filter:blur(4px);
+}
+
+.bgPrimary{
+    background-color: #b6ded4;
+}
+
+.colorDark{
+    color: black;
+}
+
+.box{
+    margin: 3em 3em;
+}
+
+h1{
+    display: none;
 }
