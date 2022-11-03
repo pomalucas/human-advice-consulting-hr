@@ -1200,8 +1200,8 @@ nav {
   z-index: 10;
 }
 .nav-bar {
-  height: 65px;
-  max-height: 65px;
+  height: 210px;
+  max-height: 210px;
   line-height: 62px;
 }
 .nav-bar .logo {
@@ -1224,7 +1224,7 @@ nav {
   top: 0;
 }
 .nav-bar.nav--fixed:not(.bg--dark):not(.bg--primary):not(.bg--white) {
-  background: #f8f8f8;
+  background: #ffffff;
 }
 .nav-bar.nav--fixed + .nav-mobile-toggle {
   position: fixed;
@@ -1233,9 +1233,9 @@ nav {
   z-index: 999;
   color: #222;
 }
-.nav-module.left {
+/* .nav-module.left {
   float: left;
-}
+} */
 .nav-module.right {
   float: right;
 }

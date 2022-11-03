@@ -58,12 +58,22 @@ h1{
 	right:20px;
 }
 
-a img{
+a img {
+    height: 210px;
+}
+
+.flecha{
     height: 30px;
 }
 
 @media (max-width: 970px){
     #derechos{
         display: none;
+    }
+}
+
+@media (max-width: 1176px){
+    .logo-opacidad{
+        opacity: 0.2;
     }
 }
