@@ -387,7 +387,7 @@ body {
 /**! 6. Images **/
 img {
   max-width: 100%;
-  margin-bottom: 1.625em;
+  margin-bottom: 7em;
 }
 p + img,
 img:last-child {
@@ -1200,9 +1200,9 @@ nav {
   z-index: 10;
 }
 .nav-bar {
-  height: 210px;
-  max-height: 210px;
-  line-height: 62px;
+  height: 230px;
+  max-height: 230px;
+  line-height: 200px;
 }
 .nav-bar .logo {
   max-height: 40%;
@@ -2974,7 +2974,7 @@ form[action*='list-manage.com'] .small-meta {
 section,
 footer {
   padding-top: 6.5em;
-  padding-bottom: 8.125em;
+  padding-bottom: 6.125em;
 }
 section.space--sm,
 footer.space--sm {
@@ -3173,7 +3173,7 @@ h6,
   font-weight: 400;
 }
 .lead:last-child {
-  margin-bottom: 0;
+  margin-bottom: 1;
 }
 a {
   color: #232323;
@@ -7340,7 +7340,7 @@ footer .logo {
   }
 }
 .footer-3 {
-  padding: 4.875em 0;
+  padding: 3em 0;
   overflow: hidden;
 }
 .footer-3 div[class*='col-']:first-child {
@@ -7361,7 +7361,7 @@ footer .logo {
   display: inline-block;
 }
 .footer-3 .footer__navigation li:not(:last-child) {
-  margin-right: 3.25em;
+  margin-right: 2.25em;
 }
 .footer-3 .footer__navigation li a {
   font-family: 'Montserrat', 'Helvetica', 'Arial', sans-serif;
@@ -7369,7 +7369,7 @@ footer .logo {
   font-weight: 600;
   font-variant-ligatures: common-ligatures;
   margin-bottom: 0;
-  font-size: 0.625em;
+  font-size: 0.675em;
   line-height: 2.6em;
   margin-top: 0;
   text-transform: uppercase;
