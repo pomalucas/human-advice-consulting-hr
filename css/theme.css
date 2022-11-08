@@ -3303,11 +3303,11 @@ p[class*='col-'] {
   border-color: #546cc3;
 }
 .btn.btn--success {
-  background: #64b671;
-  border-color: #64b671;
+  background: #406167;
+  border-color: #406167;
 }
 .btn.btn--success:hover {
-  border-color: #75be81;
+  border-color: #406167;
 }
 .btn.btn--success .btn__text {
   color: #fff;
