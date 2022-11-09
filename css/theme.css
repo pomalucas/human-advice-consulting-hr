@@ -3958,11 +3958,11 @@ button:focus,
 button:active {
   color: #fff !important;
 }
-button:active,
+/* button:active,
 button:hover,
 button:focus {
   border-color: #425cbb !important;
-}
+} */
 button.btn--loading:after {
   background: #8c9cd7;
 }
