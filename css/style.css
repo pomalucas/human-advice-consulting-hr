@@ -115,9 +115,6 @@ a img {
 }
 
 @media (min-width: 991px) and (max-width:1226px) {
-    .logo-nav {
-        
-    }
     .nav-bar{
         line-height: 62px;
     }
