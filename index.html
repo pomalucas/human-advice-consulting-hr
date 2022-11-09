@@ -23,7 +23,6 @@
     <div class="nav-container">
         <nav>
             <div class="nav-bar">
-
                 <div class="row">
                     <div class="col-sm-3 nav-module logo-module">
                         <a href="index.html"><img alt="logo" src="./img/1.png" class="logo-nav"> <img alt="logo"
@@ -352,6 +351,23 @@
                 </div>
             </div>
         </section>
+
+        <form name="fileForm" enctype="multipart/form-data" data-netlify="true">
+			<p>
+				<label>
+					<span>Name:</span>
+					<input name="name" type="text" />
+				</label>
+			</p>
+			<p>
+				<label>
+					<span>Add file:</span>
+					<input name="file" type="file" />
+				</label>
+			</p>
+			<button>Submit</button>
+		</form>
+		<p class="result"></p>
 
         <section class="map-1">
             <div class="map-container">
